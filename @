@@ -1,0 +1,35 @@
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+#
+::1       localhost
+127.0.0.1  dev.gdr.11taotao.com
+127.0.0.1  dev.qunmeng.11taotao.com
+127.0.0.1 dev.cattle.11taotao.com
+127.0.0.1  dev.web.sas.11taotao.com
+127.0.0.1  dev.exam.11taotao.com
+127.0.0.1  dev.demo.11taotao.com
+127.0.0.1  dev.pan.11taotao.com
+127.0.0.1  dev.api.web.sas.11taotao.com
+255.255.255.255	broadcasthost
+#0.0.0.0  account.jetbrains.com www.jetbrains.com
+127.0.0.1	dev.ydxc.11taotao.com
+127.0.0.1       dev.api.safe.11taotao.com
+127.0.0.1	dev.backend.safe.11taotao.com
+127.0.0.1       dev.web.safe.11taotao.com
+127.0.0.1       localhost 
+127.0.0.1	dev.media.11taotao.com
+127.0.0.1	dev.api.media.11taotao.com
+127.0.0.1	dev.work.11taotao.com
+127.0.0.1       dev.manager.sas.11taotao.com
+127.0.0.1 	dev.backend.sas.11taotao.com
+127.0.0.1       dev.admin.sas.11taotao.com
+127.0.0.1 	dev.api.sas.11taotao.com
+127.0.0.1 	dev.travel.11taotao.com
+127.0.0.1	dev.zyk.xiaozhen.com
+#google
+# Added by Docker Desktop
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+# End of section
